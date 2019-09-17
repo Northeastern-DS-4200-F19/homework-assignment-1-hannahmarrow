@@ -21,6 +21,16 @@ html {
       text-shadow: 3px 3px 1px white;
   }
 
+  h2 {
+      font-size: 25px;
+      text-align: center;
+      margin: 0;
+      padding: 5px 0;
+      color: #FF9500;
+      text-shadow: 1px 1px 1px white;
+
+  }
+
   p, li {
       font-size: 18px;
       line-height: 2;
@@ -32,3 +42,11 @@ html {
       display: block;
       margin: 0 auto;
   }
+
+  button {
+      color: #FF9500;
+      background-color: white;
+      block-size:  50px;
+      font-size: 30px;
+      text-align: center;
+    }
